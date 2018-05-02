@@ -1,0 +1,14 @@
+uuid: 904f67fa-4658-4520-a9d4-926f164c09d7
+name: thomas-d8-composer-project
+mail: tthackery@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
