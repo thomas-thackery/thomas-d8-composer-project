@@ -24,6 +24,7 @@
         "drupal/pathauto": "^1.2",
         "drupal/redirect": "^1.2",
         "drupal/simple_block": "^1.0@beta",
+        "drupal/yaml_sandbox": "1.x-dev",
         "drush-ops/behat-drush-endpoint": "^0.0.5",
         "drush/drush": "~8",
         "pantheon-systems/quicksilver-pushback": "~1",
